@@ -1,0 +1,6 @@
+postman api,
+sql
+devtools
+github
+terminal
+
